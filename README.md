@@ -30,7 +30,7 @@ Each project has its own separate repository, but here you'll find them all list
 - **Learning**: TypeScript, Advanced Testing, GraphQL, PWAs
 
 ## Connect With Me
-- 📧 Email: your.email@example.com (replace with your real email)
+- 📧 Email: [amiralishakery320@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/amirali-shakery-6b0068365](https://www.linkedin.com/in/amirali-shakery-6b0068365)
 - 🌐 GitHub: [github.com/Amirshakk](https://github.com/Amirshakk)
 
