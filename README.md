@@ -12,7 +12,7 @@ Each project has its own separate repository, but here you'll find them all list
 | # | Project | Short Description | Key Technologies | Repo Link | Live Demo |
 |---|---------|-------------------|------------------|-----------|-----------|
 | 1 | Semantic Personal Website | Single-page personal website built purely with HTML5 – full focus on semantic tags, accessibility, and form validation | HTML5, Accessibility (WCAG) | [Repo ↗](https://github.com/Amirshakk/semantic-personal-website) | [Live Demo ↗](https://semantic-personal-website.netlify.app/) |
-| 2 | Responsive Portfolio (In Progress) | Adding advanced CSS, Flexbox/Grid, Responsive Design, and animations | HTML, CSS3, Responsive Design | Coming soon | Coming soon |
+| 2 | Responsive Portfolio (In Progress) | Adding advanced CSS, Flexbox/Grid, Responsive Design, and animations | HTML, CSS3, Responsive Design |[Repo ↗](https://github.com/Amirshakk/Responsive-Portfolio) | [Live Demo ↗](https://frontendii.netlify.app//) |
 | 3 | Vanilla JS Todo App (In Progress) | Todo management with DOM manipulation, localStorage, and Fetch API | JavaScript (ES6+) | Coming soon | Coming soon |
 | 4 | React Blog (In Progress) | Full-featured blog with React, Hooks, Routing, and Tailwind | React, Tailwind CSS, React Router | Coming soon | Coming soon |
 | 5 | Mini E-commerce Store (In Progress) | Small store with cart functionality, unit testing, and performance optimization | React, Vite, Jest/Vitest | Coming soon | Coming soon |
