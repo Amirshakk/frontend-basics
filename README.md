@@ -1,4 +1,4 @@
-# Amir Shakk - Frontend Portfolio 🚀
+# Amir Shakk - Frontend Basics 🚀
 
 Hi! I'm Amirali Shakery, a passionate Frontend Developer focused on writing clean, accessible, performant, and user-friendly web applications.
 
