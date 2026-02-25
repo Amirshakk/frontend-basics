@@ -15,7 +15,7 @@ Each project has its own separate repository, but here you'll find them all list
 | 2 | Responsive Portfolio (In Progress) | Adding advanced CSS, Flexbox/Grid, Responsive Design, and animations | HTML, CSS3, Responsive Design |[Repo ↗](https://github.com/Amirshakk/Responsive-Portfolio) | [Live Demo ↗](https://frontendii.netlify.app//) |
 | 3 | Vanilla JS Todo App (In Progress) | Todo management with DOM manipulation, localStorage, and Fetch API | JavaScript (ES6+) | [Repo ↗](https://github.com/Amirshakk/vanilla-js-todo-app) | [Live Demo ↗](https://frontendiii.netlify.app/) |
 | 4 | React Blog | Full-featured blog with React, Hooks, Routing, and Tailwind | React, Tailwind CSS, React Router | [Repo ↗](https://github.com/Amirshakk/React-Blog) | [Live Demo ↗](https://frontendiv.netlify.app/) |
-| 5 | Mini E-commerce Store (In Progress) | Small store with cart functionality, unit testing, and performance optimization | React, Vite, Jest/Vitest | Coming soon | Coming soon |
+| 5 | Mini E-commerce Store (In Progress) | Small store with cart functionality, unit testing, and performance optimization | React, Vite, Jest/Vitest | [Repo ↗](https://github.com/Amirshakk/Mini-E-commerce-Store) | [Live Demo ↗](https://codenamev.netlify.app/) |
 | 6 | Secure Auth App (In Progress) | Login/Register system with JWT, validation, and basic security practices | React, TypeScript, Web Security | Coming soon | Coming soon |
 | 7 | Next.js News Aggregator (In Progress) | SSR app with GraphQL, excellent SEO, and high performance | Next.js, TypeScript, Apollo/GraphQL | Coming soon | Coming soon |
 | 8 | PWA Chat App (In Progress) | Offline-capable chat app with Service Workers and Notifications | React, PWA, Workbox | Coming soon | Coming soon |
